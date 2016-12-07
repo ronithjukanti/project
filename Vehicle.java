@@ -1,10 +1,6 @@
 package com.example;
 import java.io.Serializable;
 
-/**
- * Created by maverick on 11/3/2016.
- */
-
 public class Vehicle implements Serializable {
 
     private int id;

@@ -1,8 +1,5 @@
 package com.example;
 
-/**
- * Created by maverick on 11/7/2016.
- */
 //i took help from shwetha for this part
 
 import org.springframework.scheduling.annotation.Scheduled;
